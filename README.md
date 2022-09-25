@@ -1,6 +1,6 @@
 ![logo](https://github.com/gautamkumar1/gautamkumar1/blob/main/github%20banner%201.png)
 <h1 align="center">Hi 👋, I'm Gautam Kumar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Software Engineer from India</h3>
 <img align="right" alt="coding gif" width="400" src="https://i.pinimg.com/originals/bd/4e/d3/bd4ed327189c2a56695beb91cd534570.gif">
 
 
