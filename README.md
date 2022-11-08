@@ -9,6 +9,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/gautam-kumar-9a6397230" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautam-kumar-9a6397230" height="30" width="40" /></a>
+ <a href="https://auth.geeksforgeeks.org/user/gautamxd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="gautamxd" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/gautam_kum4r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gautam_kum4r" height="30" width="40" /></a>
 </p>
 
