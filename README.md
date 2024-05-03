@@ -98,7 +98,7 @@ Websites.
 | IDE & Environment | <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> <img src="https://img.shields.io/badge/replit-F26207?style=for-the-badge&logo=replit&logoColor=white" /> <img src="https://img.shields.io/badge/Codesandbox-000000?style=for-the-badge&logo=CodeSandbox&logoColor=white" />  |
 | Hosting         | <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/> <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/> <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/> <img src="https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white"/> |
 | APIs | <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />  <img src="https://img.shields.io/badge/Unsplash-000000?style=for-the-badge&logo=Unsplash&logoColor=white" /> |
-|
+
   
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
@@ -123,7 +123,7 @@ Websites.
 | G-Search | [view](https://g-search-eight.vercel.app/) | [view](https://github.com/gautamkumar1/G-Search) | `React.Js`
 | Multiplayer Tic-Tac-Toe | [view](https://multiplayer-tic-tac-toe-zeta.vercel.app/) | [view](https://multiplayer-tic-tac-toe-zeta.vercel.app/) | `React.js` `Node.Js` `MongoDB` `Socket.io` |
 | CodeHUb |- | [view](https://github.com/gautamkumar1/CodeHUb) |  `React.js` `Node.Js` `MongoDB` `Passport.Js` `Tailwind CSS` `Github API`|
-| DSA | - | [view](https://github.com/gautamkumar1/DATA-STRUCTURE-AND-ALGORITHM) | `C++` 
+| DSA | - | [view](https://github.com/gautamkumar1/DATA-STRUCTURE-AND-ALGORITHM) | `C++` |
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Metrics ------------------------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
