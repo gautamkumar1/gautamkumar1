@@ -113,6 +113,7 @@ Websites.
 
 | Projects | Deployed Link | Repository | Tech Stack & Tools |
 |:---------|:-------------:|:----------:|:-------------------|
+| Formulate | [view](https://formulate-three.vercel.app/) | [view](https://github.com/gautamkumar1/Formulate) | `Next.js` `Typescript` `Prisma` `TailwindCSS` `Shadcn UI` `DND Kit Library` `Vercel PostgreSQL` | 
 | GCONNECT | - | [view](https://github.com/gautamkumar1/GCONNECT-APP) | `React.js` `Node.Js` `MongoDB` `Socket.io`| 
 | SyntaxSniper | [view](https://syntax-sniper.vercel.app/) | [view](https://github.com/gautamkumar1/SyntaxSniper) | `React.Js` `Tailwind CSS` `Shadcn UI` `Zustand`| 
 |Thread Clone| [view](https://threads-clone-vxq4.onrender.com/auth) | [view](https://github.com/gautamkumar1/threads-clone) |  `React.js` `Node.Js` `MongoDB` `Socket.io` `Chakra UI` | 
