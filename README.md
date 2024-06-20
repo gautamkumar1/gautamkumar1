@@ -113,6 +113,7 @@ Websites.
 
 | Projects | Deployed Link | Repository | Tech Stack & Tools |
 |:---------|:-------------:|:----------:|:-------------------|
+| AceMock AI | [view](https://acemock-ai.vercel.app/) | [view](https://github.com/gautamkumar1/AceMock-AI) | `Next.js` `Javascript` `TailwindCSS` `Shadcn UI` `React.Js` `PostgreSQL` `Drizzle ORM` `Clerk` `Stripe` `Google Gemini API` |
 | G-MEET | [view](https://g-meet-sigma.vercel.app/) | [view](https://github.com/gautamkumar1/G-Meet) | `Next.js` `Typescript` `TailwindCSS` `Shadcn UI`  | 
 | Formulate | [view](https://formulate-three.vercel.app/) | [view](https://github.com/gautamkumar1/Formulate) | `Next.js` `Typescript` `Prisma` `TailwindCSS` `Shadcn UI` `DND Kit Library` `Vercel PostgreSQL` | 
 | GCONNECT | - | [view](https://github.com/gautamkumar1/GCONNECT-APP) | `React.js` `Node.Js` `MongoDB` `Socket.io`| 
