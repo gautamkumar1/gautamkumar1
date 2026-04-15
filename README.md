@@ -13,7 +13,6 @@
 ![docker](https://img.shields.io/static/v1?logo=docker&label=&message=docker&color=36465D&logoColor=AAA&style=flat-square)
 ![langchain](https://img.shields.io/static/v1?logo=chainlink&label=&message=langchain&color=36465D&logoColor=AAA&style=flat-square)
 ![huggingface](https://img.shields.io/static/v1?logo=huggingface&label=&message=huggingface&color=36465D&logoColor=AAA&style=flat-square)
-![aws](https://img.shields.io/static/v1?logo=amazonaws&label=&message=aws&color=36465D&logoColor=AAA&style=flat-square)
 &nbsp;&nbsp;&nbsp;
 
 **Full Stack AI Developer** &#12299;_working on Generative AI, LLMs, and agentic systems_
