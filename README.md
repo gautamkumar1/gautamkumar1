@@ -20,7 +20,7 @@
 **Builder** &#12299;_focused on scalable systems, automation, and real-world AI applications_
 
 #### 🌀 Projects
-• [quickpoast-ai](https://github.com/gautamkumar1/QuickPostAI) - Writes engaging X posts and replies, tone-aware, auto-scheduled.<br>
+• [quickpost-ai](https://github.com/gautamkumar1/QuickPostAI) - Writes engaging X posts and replies, tone-aware, auto-scheduled.<br>
 • [fashion-agent](https://github.com/gautamkumar1/fashion-agent) - Handles queries, suggests products, routes issues, voice-enabled with fast caching.<br>
 • [ghsrk](https://www.ghsrk.com/) - AI-native search and workflow engine for personal and enterprise agents.<br>
 • [acemock-ai](https://github.com/gautamkumar1/AceMock-AI) - AI mock interviews with feedback, ratings, and better answer guidance.<br>
