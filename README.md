@@ -17,8 +17,6 @@
 ![langchain](https://img.shields.io/static/v1?label=&message=langchain&color=36465D&logoColor=AAA&style=flat-square)
 ![git](https://img.shields.io/static/v1?logo=git&label=&message=git&color=36465D&logoColor=AAA&style=flat-square)
 &nbsp;&nbsp;&nbsp;
-![worksat](https://img.shields.io/static/v1?label=&message=@:&color=111&style=flat-square)
-![ai](https://img.shields.io/static/v1?label=&message=genai+systems&color=111&logoColor=AAA&style=flat-square)
 
 **Full Stack AI Developer** &#12299;_working on Generative AI, LLMs, and agentic systems_
 <br/>
