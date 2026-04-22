@@ -21,6 +21,7 @@
 
 #### 🌀 Projects
 • [quickpost-ai](https://github.com/gautamkumar1/QuickPostAI) - Writes engaging X posts and replies, tone-aware, auto-scheduled.<br>
+• [healthclaim-ai](gautamkumar1/HealthClaim-AI) - HealthClaim-AI converts clinician notes into billing drafts with coding checks.<br>
 • [fashion-agent](https://github.com/gautamkumar1/fashion-agent) - Handles queries, suggests products, routes issues, voice-enabled with fast caching.<br>
 • [ghsrk](https://www.ghsrk.com/) - AI-native search and workflow engine for personal and enterprise agents.<br>
 • [acemock-ai](https://github.com/gautamkumar1/AceMock-AI) - AI mock interviews with feedback, ratings, and better answer guidance.<br>
